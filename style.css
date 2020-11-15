@@ -1,0 +1,25 @@
+body {
+    background: wheat;
+    font-family: monospace;
+    text-align: center;
+}
+
+.midBig {
+    font-style: oblique;
+    font-size: 64px;
+    margin-bottom: -15px;
+    animation: color-change 3600s infinite;
+}
+
+@keyframes color-change {
+    from {
+        color: black;
+    }
+    50% {
+        font-size: 360px ;
+        color: white;
+    }
+    to {
+        color: black;
+    }
+}

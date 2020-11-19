@@ -19,3 +19,51 @@ a:hover {
 p {
     margin-top: -17px;
 }
+
+.coloranim {
+    animation: colors 10s infinite;
+}
+
+@keyframes colors {
+    from {
+        color: black;
+    }
+    10% {
+        color: darkblue;
+    }
+
+    20% {
+        color: aqua;
+    }
+
+    30% {
+        color: yellow;
+    }
+
+    40% {
+        color: orange;
+    }
+
+    50% {
+        color: indianred;
+    }
+
+    60% {
+        color: red;
+    }
+
+    70% {
+        color: darkred;
+    }
+
+    80% {
+        color: black;
+    }
+
+    90% {
+
+    }
+    to {
+        color: black;
+    }
+}

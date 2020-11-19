@@ -1,0 +1,21 @@
+body {
+    background: wheat;
+    text-align: center;
+    font-family: Bahnschrift, monospace;
+    font-stretch: condensed;
+}
+
+a {
+    text-decoration: none;
+    color: #000077;
+}
+
+a:hover {
+    text-decoration: underline;
+    text-decoration-color: black;
+    /*color: darkred;*/
+}
+
+p {
+    margin-top: -17px;
+}

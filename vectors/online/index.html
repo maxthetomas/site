@@ -7,12 +7,15 @@
     </head>
     <body>
         <script>
+
             function calculateFirst() {
                 var x = parseInt(x2.value) - parseInt(x1.value)
                 var y = (parseInt(y2.value) - parseInt(y1.value))
                 var sqrtOf = (x * x) + (y * y)
                 var sqrt = Math.sqrt(sqrtOf)
                 result1.innerHTML = "Координаты: {" + x + "; " + y + "}, Длина: " + sqrt + " (√" + sqrtOf + ")"
+                if (autoClear.value === "on")
+                    clearFirst()
             }
 
             function calculateSecond() {
@@ -21,7 +24,29 @@
                 var sqrtOf = (x * x) + (y * y)
                 var sqrt = Math.sqrt(sqrtOf)
                 result2.innerHTML = "Длина: " + sqrt + " (√" + sqrtOf + ")"
+                if (autoClear.value === "on")
+                    clearSecond()
             }
+
+            function clearFirst() {
+                x1.value = 0
+                x2.value = 0
+                y1.value = 0
+                y2.value = 0
+            }
+
+            function clearSecond() {
+                x3.value = 0
+                y3.value = 0
+            }
+
+            function flipVal() {
+                if (autoClear.value === "off")
+                    autoClear.value = "on"
+                else
+                    autoClear.value = "off"
+            }
+
         </script>
         <h1>Длина и координаты</h1>
         <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1"> <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
@@ -32,6 +57,8 @@
         <p><label for="x3">X </label><input type="number" id="x3"> <label for="y3">Y </label><input type="number" id="y3"></p>
         <button onclick="calculateSecond()" id="run2">Рассчитать</button>
         <p style="margin-top: 20px" id="result2">Результат: </p>
+        <p><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
+        <p><button onclick="clearSecond(); clearFirst()">Очистить</button></p>
         <footer>
             <p>MaxTheTomas 2020г.</p>
             <a href="/site/vectorcalc/">Оффлайн-калькулятор</a>

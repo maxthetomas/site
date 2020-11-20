@@ -16,6 +16,12 @@ a:hover {
     /*color: darkred;*/
 }
 
+button {
+    font-family: Bahnschrift, monospace;
+    font-stretch: semi-condensed;
+}
+
+
 p {
     margin-top: -17px;
 }

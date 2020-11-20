@@ -1,39 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-    <head>
-        <link rel="stylesheet" href="styles.css">
-        <meta charset="UTF-8">
-        <title>Calc online</title>
-    </head>
-    <body>
-        <script>
-            function calculateFirst() {
-                var x = parseInt(x2.value) - parseInt(x1.value)
-                var y = (parseInt(y2.value) - parseInt(y1.value))
-                var sqrtOf = (x * x) + (y * y)
-                var sqrt = Math.sqrt(sqrtOf)
-                result1.innerHTML = "Координаты: {" + x + "; " + y + "}, Длина: " + sqrt + " (√" + sqrtOf + ")"
-            }
-
-            function calculateSecond() {
-                var x = parseInt(x3.value)
-                var y = parseInt(y3.value)
-                var sqrtOf = (x * x) + (y * y)
-                var sqrt = Math.sqrt(sqrtOf)
-                result2.innerHTML = "Длина: " + sqrt + " (√" + sqrtOf + ")"
-            }
-        </script>
-        <h1>Длина и координаты</h1>
-        <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1"> <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
-        <p><label for="x2">X<sub>2</sub> </label><input type="number" id="x2"> <label for="y2">Y<sub>2</sub> </label><input type="number" id="y2"></p>
-        <button onclick="calculateFirst()" id="run1">Рассчитать</button>
-        <p style="margin-top: 20px" id="result1">Результат: </p>
-        <h1>Длина</h1>
-        <p><label for="x3">X </label><input type="number" id="x3"> <label for="y3">Y </label><input type="number" id="y3"></p>
-        <button onclick="calculateSecond()" id="run2">Рассчитать</button>
-        <p style="margin-top: 20px" id="result2">Результат: </p>
-        <footer>
-            <a href="/site/vectorcalc/">Оффлайн-калькулятор</a>
-        </footer>
-    </body>
+<head>
+    <meta charset="UTF-8">
+    <meta name="description" content="Калькулятор векторов от MaxTheTomas">
+    <title>Redirecting...</title>
+</head>
+<body>
+<script>
+    setTimeout( 'location="./site/vectors/online";', 1000 );
+</script>
+</body>
 </html>

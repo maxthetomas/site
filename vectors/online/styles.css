@@ -20,6 +20,13 @@ p {
     margin-top: -17px;
 }
 
+footer {
+    position: fixed;
+    margin-left: 40%;
+    bottom: 3%;
+}
+
+
 .coloranim {
     animation: colors 10s infinite;
 }

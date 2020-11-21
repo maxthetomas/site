@@ -23,6 +23,9 @@ button {
     font-stretch: semi-condensed;
 }
 
+input {
+    max-width: 15%;
+}
 
 p {
     margin-top: -17px;

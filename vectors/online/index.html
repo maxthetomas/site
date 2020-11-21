@@ -4,8 +4,11 @@
         <link rel="stylesheet" href="styles.css">
         <meta charset="UTF-8">
         <title>Calc online</title>
+
+        <link rel="stylesheet" href="snow.css">
+        <script src="snow.js"></script>
     </head>
-    <body>
+    <body onload="">
         <script>
 
             function calculateFirst() {
@@ -48,21 +51,23 @@
             }
 
         </script>
-        <h1>Длина и координаты</h1>
-        <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1"> <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
-        <p><label for="x2">X<sub>2</sub> </label><input type="number" id="x2"> <label for="y2">Y<sub>2</sub> </label><input type="number" id="y2"></p>
-        <button onclick="calculateFirst()" id="run1">Рассчитать</button>
-        <p style="margin-top: 20px" id="result1">Результат: </p>
-        <h1>Длина</h1>
-        <p><label for="x3">X </label><input type="number" id="x3"> <label for="y3">Y </label><input type="number" id="y3"></p>
-        <button onclick="calculateSecond()" id="run2">Рассчитать</button>
-        <p style="margin-top: 20px" id="result2">Результат: </p>
-        <p><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
-        <p><button onclick="clearSecond(); clearFirst()">Очистить</button></p>
-        <footer>
-            <p>MaxTheTomas 2020г.</p>
-            <a href="/site/vectorcalc/">Оффлайн-калькулятор</a>
-            <p style="margin-top: 10px"><iframe src="https://widget.qiwi.com/widgets/big-button-220x100?publicKey=48e7qUxn9T7RyYE1MVZswX1FRSbE6iyCj2gCRwwF3Dnh5XrasNTx3BGPiMsyXQFNKQhvukniQG8RTVhYm3iPsZ8EigGBhxpHSb4wB7wNmwQeAyBpm76bkvQHYCU7hqkcENRivM92qYzKa3AtPBfzSvQ1fT8Hv6Se6eaHbFLaFornqekjiNwQmADQ5247e&noCache=true" width="220" height="100" allowTransparency="true" scrolling="no" frameBorder="0"></iframe></p>
-        </footer>
+            <div id="snow"></div>
+
+            <h1>Длина и координаты</h1>
+            <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1"> <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
+            <p><label for="x2">X<sub>2</sub> </label><input type="number" id="x2"> <label for="y2">Y<sub>2</sub> </label><input type="number" id="y2"></p>
+            <button onclick="calculateFirst()" id="run1">Рассчитать</button>
+            <p style="margin-top: 20px" id="result1">Результат: </p>
+            <h1>Длина</h1>
+            <p><label for="x3">X </label><input type="number" id="x3"> <label for="y3">Y </label><input type="number" id="y3"></p>
+            <button onclick="calculateSecond()" id="run2">Рассчитать</button>
+            <p style="margin-top: 20px" id="result2">Результат: </p>
+            <p><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
+            <p><button onclick="clearSecond(); clearFirst()">Очистить</button></p>
+            <footer>
+                <p>MaxTheTomas 2020г.</p>
+                <a href="/site/vectorcalc/">Оффлайн-калькулятор</a>
+                <a href="https://my.qiwi.com/form/Maksym-TNHv5M1nzM" class="coolerA">Донат</a>
+                </footer>
     </body>
 </html>

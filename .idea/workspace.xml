@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="fix" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="TypeScript File" />
+        <option value="JavaScript File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" interpreter_name="PHP 7.3" />
+  <component name="ProjectId" id="1kIRcmQjY1x1Kzd9NazgOfBKYX9" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\scripts" />
+      <recent name="D:\CODING\site\stylesheets" />
+      <recent name="D:\CODING\site\vectors\offline" />
+      <recent name="D:\CODING\site\vectorcalconline" />
+      <recent name="D:\CODING\site\vectorcalc" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\vectors\online" />
+      <recent name="D:\CODING\site\vectors\offline" />
+      <recent name="D:\CODING\site\vectorcalc" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
+    <configuration name="index" type="JavascriptDebugType" uri="http://localhost:63342/site/vectors/online/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/vectors/offline/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="" />
+      <created>1605386200331</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1605386200331</updated>
+      <workItem from="1605386205550" duration="261000" />
+      <workItem from="1605457451956" duration="629000" />
+      <workItem from="1605458082636" duration="35000" />
+      <workItem from="1605458120713" duration="1547000" />
+      <workItem from="1605806632899" duration="1908000" />
+      <workItem from="1605808549935" duration="5571000" />
+      <workItem from="1605870309333" duration="38000" />
+      <workItem from="1605870349620" duration="2205000" />
+      <workItem from="1605872591175" duration="255000" />
+      <workItem from="1605872924832" duration="1293000" />
+      <workItem from="1605886883703" duration="1085000" />
+      <workItem from="1605978363490" duration="4086000" />
+    </task>
+    <task id="LOCAL-00001" summary="COMMIT MESSAGE">
+      <created>1605459613132</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605459613132</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Made something">
+      <created>1605807996492</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1605807996492</updated>
+    </task>
+    <task id="LOCAL-00003" summary="index.html update">
+      <created>1605808189828</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1605808189828</updated>
+    </task>
+    <task id="LOCAL-00004" summary="index.html update">
+      <created>1605808256422</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1605808256422</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Using">
+      <created>1605809524080</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1605809524080</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Online calculator">
+      <created>1605813739314</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813739314</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Online-Calc and navigation">
+      <created>1605813846191</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1605813846191</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Button and directories">
+      <created>1605871428413</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1605871428413</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Dir fixes">
+      <created>1605871691265</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1605871691265</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Dir fixes">
+      <created>1605871859710</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1605871859710</updated>
+    </task>
+    <task id="LOCAL-00011" summary="Dir fixes">
+      <created>1605872019743</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1605872019743</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Dir fixes">
+      <created>1605872180439</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1605872180439</updated>
+    </task>
+    <task id="LOCAL-00013" summary="AutoClear">
+      <created>1605887813277</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1605887813278</updated>
+    </task>
+    <task id="LOCAL-00014" summary="main page and snow">
+      <created>1605981917410</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1605981917410</updated>
+    </task>
+    <task id="LOCAL-00015" summary="fix">
+      <created>1605982151660</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1605982151660</updated>
+    </task>
+    <option name="localTasksCounter" value="16" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="COMMIT MESSAGE" />
+    <MESSAGE value="Made something" />
+    <MESSAGE value="index.html update" />
+    <MESSAGE value="Using" />
+    <MESSAGE value="Online calculator" />
+    <MESSAGE value="Online-Calc and navigation" />
+    <MESSAGE value="Button and directories" />
+    <MESSAGE value="Dir fixes" />
+    <MESSAGE value="AutoClear" />
+    <MESSAGE value="main page and snow" />
+    <MESSAGE value="fix" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="540" y="175" key="#CLI_Interpreters/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605872984515" />
+    <state x="667" y="163" key="#PHP" timestamp="1605872987069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="667" y="163" key="#PHP/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605872987069" />
+    <state x="669" y="202" key="#Unnamed" timestamp="1605872843072">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="202" key="#Unnamed/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605872843072" />
+    <state x="763" y="306" key="#Web_Browsers" timestamp="1605458237677">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="763" y="306" key="#Web_Browsers/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458237677" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605887189537">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605887189537" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605979431318">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605979431318" />
+    <state x="669" y="202" key="#index.php" timestamp="1605872421676">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="669" y="202" key="#index.php/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605872421676" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1605981668312">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981668312" />
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1605981598373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598373" />
+    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1605981598373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598373" />
+    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1605981598373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598373" />
+    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1605981598373">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598373" />
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.1.center" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.1.left" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.1.right" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.2.bottom" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.2.center" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.2.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.2.left" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.2.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state width="1877" height="254" key="GridCell.Tab.2.right" timestamp="1605981598374">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="254" key="GridCell.Tab.2.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981598374" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605874072337">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605874072337" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1605386285657">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605386285657" />
+    <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1605458411135">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458411135" />
+    <state x="616" y="240" key="run.anything.popup" timestamp="1605981284562">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981284562" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605887343609">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605887343609" />
+  </component>
+</project>

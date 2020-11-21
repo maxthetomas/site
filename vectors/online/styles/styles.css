@@ -2,9 +2,10 @@ body {
     background: black;
     color: whitesmoke;
 
+    /*text-transform: uppercase;*/
     text-align: center;
     font-family: Bahnschrift, monospace;
-    font-stretch: condensed;
+    font-stretch: ultra-condensed;
 }
 
 a {
@@ -21,6 +22,12 @@ a:hover {
 button {
     font-family: Bahnschrift, monospace;
     font-stretch: semi-condensed;
+    background-color: wheat;
+    transition-duration: 0.3s;
+}
+
+button:hover {
+    background-color: orange;
 }
 
 input {
@@ -33,7 +40,7 @@ p {
 
 footer {
     position: fixed;
-    margin-left: 80%;
+    margin-left: 50%;
     bottom: 3%;
 }
 

@@ -62,3 +62,7 @@ document.addEventListener('DOMContentLoaded', function(){
     }
     document.head.append(script);
 });
+
+function switchSnow() {
+    document.getElementById('snow').hidden = !document.getElementById('snow').hidden
+}

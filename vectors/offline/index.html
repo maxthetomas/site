@@ -2,11 +2,11 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <link rel="stylesheet" href="indexstylesheet.css">
+    <link rel="stylesheet" href="styles/indexstylesheet.css">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Калькулятор векторов</title>
-    <link rel="stylesheet" href="snow.css">
-    <script src="snow.js"></script>
+    <link rel="stylesheet" href="styles/snow.css">
+    <script src="scripts/snow.js"></script>
 </head>
 <body>
     <div id="snow"></div>
@@ -15,10 +15,10 @@
 
     <h2>Установка: </h2>
     <p>1. Установите <a href="https://dotnet.microsoft.com/download">.NET Core</a></p>
-    <p>2. Скачайте <a href="VectorCalculator.exe" download>VectorCalculator.exe</a> и запустите его</p>
+    <p>2. Скачайте <a href="files/VectorCalculator.exe" download>VectorCalculator.exe</a> и запустите его</p>
 
     <h2>Использование: </h2>
-    <img src="1.png">
+    <img src="files/1.png" alt="Usage">
     <h4>Координаты и  длина:</h4>
     <p>x<sub>1</sub> и y<sub>1</sub> - коодинаты точки 1</p>
     <p>x<sub>2</sub> и y<sub>2</sub> - коодинаты точки 2</p>
@@ -26,6 +26,8 @@
     <h4>Длина:</h4>
     <p>{ координаты вектора }</p>
     <p>Выдаёт длину вектора</p>
+
+    <button onclick="switchSnow()">Вкл/Выкл снег</button>
     <footer>
         <p>MaxTheTomas 2020г.</p>
         <a href="/site/vectorcalconline/">Онлайн-калькулятор</a>

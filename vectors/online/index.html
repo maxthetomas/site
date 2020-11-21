@@ -1,73 +1,39 @@
 <!DOCTYPE html>
 <html lang="en">
     <head>
-        <link rel="stylesheet" href="styles.css">
+        <link rel="stylesheet" href="styles/styles.css">
         <meta charset="UTF-8">
         <title>Calc online</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0">
-        <link rel="stylesheet" href="snow.css">
-        <script src="snow.js"></script>
+        <link rel="stylesheet" href="styles/snow.css">
+        <script src="scripts/snow.js"></script>
+        <script src="scripts/calculations.js"></script>
     </head>
     <body>
-        <script>
-
-            function calculateFirst() {
-                var x = parseInt(x2.value) - parseInt(x1.value)
-                var y = (parseInt(y2.value) - parseInt(y1.value))
-                var sqrtOf = (x * x) + (y * y)
-                var sqrt = Math.sqrt(sqrtOf)
-                result1.innerHTML = "Координаты: {" + x + "; " + y + "}, Длина: " + sqrt + " (√" + sqrtOf + ")"
-                if (autoClear.value === "on")
-                    clearFirst()
-            }
-
-            function calculateSecond() {
-                var x = parseInt(x3.value)
-                var y = parseInt(y3.value)
-                var sqrtOf = (x * x) + (y * y)
-                var sqrt = Math.sqrt(sqrtOf)
-                result2.innerHTML = "Длина: " + sqrt + " (√" + sqrtOf + ")"
-                if (autoClear.value === "on")
-                    clearSecond()
-            }
-
-            function clearFirst() {
-                x1.value = 0
-                x2.value = 0
-                y1.value = 0
-                y2.value = 0
-            }
-
-            function clearSecond() {
-                x3.value = 0
-                y3.value = 0
-            }
-
-            function flipVal() {
-                if (autoClear.value === "off")
-                    autoClear.value = "on"
-                else
-                    autoClear.value = "off"
-            }
-
-        </script>
             <div id="snow"></div>
 
+<!--            Length & Coords-->
             <h1>Длина и координаты</h1>
-            <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1"> <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
+            <p><label for="x1">X<sub>1</sub> </label><input type="number" id="x1" > <label for="y1">Y<sub>1</sub> </label><input type="number" id="y1"></p>
             <p><label for="x2">X<sub>2</sub> </label><input type="number" id="x2"> <label for="y2">Y<sub>2</sub> </label><input type="number" id="y2"></p>
             <button onclick="calculateFirst()" id="run1">Рассчитать</button>
             <p style="margin-top: 20px" id="result1">Результат: </p>
-            <h1>Длина</h1>
+<!--            Length-->
+            <h1> Длина </h1>
             <p><label for="x3">X </label><input type="number" id="x3"> <label for="y3">Y </label><input type="number" id="y3"></p>
             <button onclick="calculateSecond()" id="run2">Рассчитать</button>
             <p style="margin-top: 20px" id="result2">Результат: </p>
-            <p><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
-            <p><button onclick="clearSecond(); clearFirst()">Очистить</button></p>
+<!--            Clear functions-->
+            <p style="margin-top: 20px" ><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
+            <p style="margin-top: 1px"><button onclick="clearSecond(); clearFirst()">Очистить</button></p>
+<!--            Snow Function-->
+            <button onclick="switchSnow()">Вкл/Выкл снег</button>
+
+<!--            Donations and Link-->
             <footer>
                 <p>MaxTheTomas 2020г.</p>
                 <a href="/site/vectorcalc/">Оффлайн-калькулятор</a>
                 <a href="https://my.qiwi.com/form/Maksym-TNHv5M1nzM" class="coolerA">Донат</a>
-                </footer>
+            </footer>
     </body>
 </html>

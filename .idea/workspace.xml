@@ -19,12 +19,23 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="fix">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="device widthыз">
+      <change afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/vectors/online/scripts/calculations.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/site.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/site.iml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/snow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/offline/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/files/1.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/offline/VectorCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/files/VectorCalculator.exe" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vectors/offline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/offline/indexstylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/styles/indexstylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/offline/snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/styles/snow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/offline/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/offline/scripts/snow.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/vectors/online/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/online/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/online/styles.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/online/snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/online/styles/snow.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/online/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/online/scripts/snow.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/vectors/online/styles.css" beforeDir="false" afterPath="$PROJECT_DIR$/vectors/online/styles/styles.css" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,9 +48,9 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="TypeScript File" />
         <option value="CSS File" />
+        <option value="HTML File" />
         <option value="JavaScript File" />
       </list>
     </option>
@@ -60,6 +71,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$/scripts" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
@@ -75,25 +87,42 @@
       <recent name="D:\CODING\site\vectorcalc" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODING\site\vectors\online" />
-      <recent name="D:\CODING\site\vectors\offline" />
-      <recent name="D:\CODING\site\vectorcalc" />
+      <recent name="D:\CODING\site\vectors\offline\files" />
+      <recent name="D:\CODING\site\vectors\offline\scripts" />
+      <recent name="D:\CODING\site\vectors\offline\styles" />
+      <recent name="D:\CODING\site\vectors\online\styles" />
+      <recent name="D:\CODING\site\vectors\online\scripts" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index">
+  <component name="RunManager" selected="JavaScript Debug.index.html (1)">
     <configuration name="index" type="JavascriptDebugType" uri="http://localhost:63342/site/vectors/online/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/firebase/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/vectors/offline/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
+      <CommandLine parameters="--enable-mbstring" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.index" />
+      <item itemvalue="JavaScript Debug.index.html" />
+      <item itemvalue="JavaScript Debug.index.html (1)" />
+      <item itemvalue="JavaScript Debug.index.html (2)" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+    </list>
     <recent_temporary>
       <list>
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
+        <item itemvalue="JavaScript Debug.index.html (2)" />
       </list>
     </recent_temporary>
   </component>
@@ -118,7 +147,9 @@
       <workItem from="1605872591175" duration="255000" />
       <workItem from="1605872924832" duration="1293000" />
       <workItem from="1605886883703" duration="1085000" />
-      <workItem from="1605978363490" duration="5285000" />
+      <workItem from="1605978363490" duration="6119000" />
+      <workItem from="1605984554904" duration="2620000" />
+      <workItem from="1605992225298" duration="2052000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -232,7 +263,14 @@
       <option name="project" value="LOCAL" />
       <updated>1605982495560</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="device width">
+      <created>1605983733641</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1605983733642</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -263,7 +301,8 @@
     <MESSAGE value="main page and snow" />
     <MESSAGE value="fix2" />
     <MESSAGE value="fix" />
-    <option name="LAST_COMMIT_MESSAGE" value="fix" />
+    <MESSAGE value="device width" />
+    <option name="LAST_COMMIT_MESSAGE" value="device width" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">
@@ -282,14 +321,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="306" key="#Web_Browsers/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458237677" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605887189537">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605985641692">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605887189537" />
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605982846660">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605985641692" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605988181031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605982846660" />
+    <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605988181031" />
     <state x="669" y="202" key="#index.php" timestamp="1605872421676">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -298,58 +337,58 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981668312" />
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.0.bottom" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.0.center" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.0.center" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.0.left" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.0.left" timestamp="1605994260264">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.0.right" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260264" />
+    <state width="1877" height="34" key="GridCell.Tab.0.right" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.1.bottom" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.1.bottom" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.1.center" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.1.center" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.1.left" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.1.left" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.1.right" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.1.right" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.2.bottom" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.2.bottom" timestamp="1605994260266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.2.center" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260266" />
+    <state width="1877" height="34" key="GridCell.Tab.2.center" timestamp="1605994260266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.2.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.2.left" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.2.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260266" />
+    <state width="1877" height="34" key="GridCell.Tab.2.left" timestamp="1605994260265">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.2.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state width="1877" height="254" key="GridCell.Tab.2.right" timestamp="1605983611063">
+    <state width="1877" height="34" key="GridCell.Tab.2.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260265" />
+    <state width="1877" height="34" key="GridCell.Tab.2.right" timestamp="1605994260266">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="254" key="GridCell.Tab.2.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605983611063" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605874072337">
+    <state width="1877" height="34" key="GridCell.Tab.2.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605994260266" />
+    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605985683470">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605874072337" />
+    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605985683470" />
     <state x="461" y="165" key="SettingsEditor" timestamp="1605386285657">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -366,5 +405,17 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605887343609" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="javascript">
+          <url>file://$PROJECT_DIR$/vectors/online/scripts/snow.js</url>
+          <line>1</line>
+          <properties lambdaOrdinal="-1" />
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
   </component>
 </project>

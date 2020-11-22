@@ -20,6 +20,10 @@ a {
     color: #FFFFCC;
 }
 
+a:hover {
+    cursor: pointer;
+}
+
 button {
     font-family: Bahnschrift, monospace;
     font-stretch: semi-condensed;
@@ -32,7 +36,7 @@ button:hover {
 }
 
 input {
-    max-width: 30%;
+    max-width: 5%;
 }
 
 p {
@@ -41,7 +45,7 @@ p {
 
 footer {
     position: fixed;
-    margin-left: 50%;
+    margin-left: 30px;
     bottom: 3%;
 }
 

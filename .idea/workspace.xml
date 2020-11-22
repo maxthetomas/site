@@ -19,42 +19,18 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="template sqrt equations">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="удалены styles.css с замещением на 1 файл">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/index.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/maths/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maths/sqequation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqequation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqequation/scripts/calculations.js" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqequation/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqequation/scripts/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqequation/styles/snow.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/snow.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqequation/styles/styles.css" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/maths/sqrt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqrt/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maths/sqrt/scripts/calculations.js" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqrt/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqrt/scripts/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqrt/styles/snow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqrt/styles/styles.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/vectors/offline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/offline/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/vectors/online/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/online/index.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/snow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/stylesheets/snow.css" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/scripts/calculations.js" beforeDir="false" afterPath="$PROJECT_DIR$/template/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/scripts/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/styles/snow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/styles/styles.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectorcalc/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectorcalconline/index.html" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/files/1.png" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/offline/files/1.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/files/VectorCalculator.exe" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/offline/files/VectorCalculator.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/offline/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/scripts/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/styles/indexstylesheet.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/offline/styles/snow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/online/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/scripts/calculations.js" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/online/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/scripts/snow.js" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/styles/snow.css" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/vectors/online/styles/styles.css" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -113,47 +89,11 @@
       <recent name="D:\CODING\site\maths\temp" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
-    <configuration name="index" type="JavascriptDebugType" uri="http://localhost:63342/site/vectors/online/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/firebase/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/equations/square/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/maths/sqrt/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
-    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/vectors/offline/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager">
     <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
       <CommandLine parameters="--enable-mbstring" />
       <method v="2" />
     </configuration>
-    <list>
-      <item itemvalue="JavaScript Debug.index" />
-      <item itemvalue="JavaScript Debug.index.html" />
-      <item itemvalue="JavaScript Debug.index.html (1)" />
-      <item itemvalue="JavaScript Debug.index.html (2)" />
-      <item itemvalue="PHP Built-in Web Server.Unnamed" />
-      <item itemvalue="JavaScript Debug.index.html (3)" />
-      <item itemvalue="JavaScript Debug.index.html (4)" />
-    </list>
-    <recent_temporary>
-      <list>
-        <item itemvalue="JavaScript Debug.index.html (4)" />
-        <item itemvalue="JavaScript Debug.index.html (3)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
-        <item itemvalue="JavaScript Debug.index.html" />
-        <item itemvalue="JavaScript Debug.index.html (2)" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -179,7 +119,7 @@
       <workItem from="1605978363490" duration="6119000" />
       <workItem from="1605984554904" duration="2620000" />
       <workItem from="1605992225298" duration="2157000" />
-      <workItem from="1606065883695" duration="6424000" />
+      <workItem from="1606065883695" duration="8485000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -314,7 +254,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606070168621</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="удалены styles.css с замещением на 1 файл">
+      <created>1606072362038</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1606072362038</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -348,7 +295,8 @@
     <MESSAGE value="device width" />
     <MESSAGE value="переключатель снега и распределение по файлам" />
     <MESSAGE value="template sqrt equations" />
-    <option name="LAST_COMMIT_MESSAGE" value="template sqrt equations" />
+    <MESSAGE value="удалены styles.css с замещением на 1 файл" />
+    <option name="LAST_COMMIT_MESSAGE" value="удалены styles.css с замещением на 1 файл" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">
@@ -367,10 +315,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="306" key="#Web_Browsers/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458237677" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605985641692">
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606072479192">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605985641692" />
+    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606072479192" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605988181031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -443,10 +391,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458411135" />
-    <state x="864" y="36" width="628" height="888" key="find.popup" timestamp="1606072140506">
+    <state x="864" y="36" width="628" height="888" key="find.popup" timestamp="1606074140041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="864" y="36" width="628" height="888" key="find.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606072140506" />
+    <state x="864" y="36" width="628" height="888" key="find.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606074140041" />
     <state x="616" y="240" key="run.anything.popup" timestamp="1605981284562">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

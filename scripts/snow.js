@@ -12,17 +12,17 @@ document.addEventListener('DOMContentLoaded', function(){
                     }
                 },
                 "color": {
-                    "value": "#ffffff"
+                    "value": "#FFFFFF"
                 },
                 "opacity": {
                     "value": 0.7,
-                    "random": false,
+                    "random": true,
                     "anim": {
                         "enable": false
                     }
                 },
                 "size": {
-                    "value": 5,
+                    "value": 8,
                     "random": true,
                     "anim": {
                         "enable": false
@@ -33,7 +33,7 @@ document.addEventListener('DOMContentLoaded', function(){
                 },
                 "move": {
                     "enable": true,
-                    "speed": 5,
+                    "speed": 3,
                     "direction": "bottom",
                     "random": true,
                     "straight": false,
@@ -61,6 +61,7 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     }
     document.head.append(script);
+    addFooter()
 });
 
 function switchSnow() {
@@ -68,4 +69,11 @@ function switchSnow() {
         document.getElementById('snow').style.display = 'block'
     else
         document.getElementById('snow').style.display = 'none'
+}
+
+function addFooter() {
+    var footer = document.createElement('footer')
+    footer.innerHTML = "<p>MaxTheTomas 2020г.</p> <p><a href=\"https://my.qiwi.com/form/Maksym-TNHv5M1nzM\" class=\"coolerA\">Донат</a></p><p><a onclick='switchSnow()'>Снег</a></p><p><a href='/site/maths/'>Назад</a></p>"
+
+    document.body.append(footer)
 }

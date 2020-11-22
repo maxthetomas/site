@@ -1,3 +1,10 @@
+header {
+    margin-left: 30px;
+    text-align: left;
+    color: white;
+    text-transform: uppercase;
+}
+
 body {
     background: black;
     color: whitesmoke;
@@ -13,12 +20,6 @@ a {
     color: #FFFFCC;
 }
 
-a:hover {
-    text-decoration: underline;
-    text-decoration-color: black;
-    /*color: darkred;*/
-}
-
 button {
     font-family: Bahnschrift, monospace;
     font-stretch: semi-condensed;
@@ -31,7 +32,7 @@ button:hover {
 }
 
 input {
-    max-width: 5%;
+    max-width: 30%;
 }
 
 p {
@@ -43,6 +44,8 @@ footer {
     margin-left: 50%;
     bottom: 3%;
 }
+
+/* Animations */
 
 .coolerA {
     animation: colors 25s infinite;
@@ -95,4 +98,30 @@ footer {
     to {
         color: white;
     }
+}
+
+/*Buttons */
+
+.yellowbut {
+    background-color: red;
+    color: black;
+}
+
+.but {
+    /*background-color: yellow;*/
+    color: white;
+    padding: 0.5em 1.5em;
+    text-decoration: none;
+    text-transform: uppercase;
+    transition-duration: 0.2s;
+    margin: 0.3em;
+}
+
+.but:hover {
+    background-color: brown;
+    cursor: pointer;
+}
+
+.but:active {
+    background-color: black;
 }

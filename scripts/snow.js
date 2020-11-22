@@ -64,5 +64,8 @@ document.addEventListener('DOMContentLoaded', function(){
 });
 
 function switchSnow() {
-    document.getElementById('snow').hidden = !document.getElementById('snow').hidden
+    if (document.getElementById('snow').style.display === 'none')
+        document.getElementById('snow').style.display = 'block'
+    else
+        document.getElementById('snow').style.display = 'none'
 }

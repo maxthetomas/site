@@ -35,6 +35,3 @@ function flipVal() {
 }
 
 // Снег вкл/выкл
-function switchSnow() {
-    document.getElementById('snow').hidden = !document.getElementById('snow').hidden
-}

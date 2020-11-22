@@ -62,3 +62,8 @@ document.addEventListener('DOMContentLoaded', function(){
     }
     document.head.append(script);
 });
+
+// Снег вкл/выкл
+function switchSnow() {
+    document.getElementById('snow').hidden = !document.getElementById('snow').hidden
+}

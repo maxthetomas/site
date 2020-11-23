@@ -25,5 +25,6 @@
             <!--Clear functions-->
             <p style="margin-top: 20px" ><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
             <p style="margin-top: 1px"><button onclick="clear()">Очистить</button></p>
+
     </body>
 </html>

@@ -1,3 +1,5 @@
+
+
 <!DOCTYPE HTML>
 <html lang="HTML">
 <head>
@@ -17,5 +19,16 @@
         <p style="margin-top: 0;"><a href="sqequation/" class="but"> Квадратное уравнение </a></p>
         <p style="margin-top: 0;"><a href="sqrt/" class="but"> Корень </a></p>
 <!--        <p><a href="/site/vectorcalc/" class="but"> Калькулятор векторов </a></p>-->
+        <footer style="margin-left: 50px">
+            <?php
+
+            if (isset($_COOKIE['id']) and isset($_COOKIE['hash'])) {
+                $link = mysqli_connect("sidedb-instance-1.chswzngjct40.eu-north-1.rds.amazonaws.com", "user", "DodoPizza");
+                $query = mysqli_query($link,"SELECT `user_login` FROM `main`.`users` WHERE `user_id`=".$_COOKIE['id']." LIMIT 1");
+                $data = mysqli_fetch_assoc($query);
+                echo ''.$data['user_login'];
+            }
+            ?>
+        </footer>
     </body>
 </html>

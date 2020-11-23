@@ -5,7 +5,7 @@ document.addEventListener('DOMContentLoaded', function(){
         particlesJS("snow", {
             "particles": {
                 "number": {
-                    "value": 200,
+                    "value": window.innerWidth / 20,
                     "density": {
                         "enable": true,
                         "value_area": 800
@@ -71,9 +71,9 @@ function switchSnow() {
         document.getElementById('snow').style.display = 'none'
 }
 
-function addFooter() {
-    var footer = document.createElement('footer')
-    footer.innerHTML = "<p>MaxTheTomas 2020г.</p> <p><a href=\"https://my.qiwi.com/form/Maksym-TNHv5M1nzM\" class=\"coolerA\">Донат</a></p><p><a onclick='switchSnow()'>Снег</a></p><p><a href='/site/maths/'>Назад</a></p>"
-
-    document.body.append(footer)
-}
+// function addFooter() {
+//     var footer = document.createElement('footer')
+//     footer.innerHTML = "<p>MaxTheTomas 2020г.</p> <p><a href=\"https://my.qiwi.com/form/Maksym-TNHv5M1nzM\" onclick='' class=\"coolerA\">Донат</a></p><p><a onclick='switchSnow()'>Снег</a></p><p><a href='/site/maths/'>Назад</a></p>"
+//
+//     document.body.append(footer)
+// }

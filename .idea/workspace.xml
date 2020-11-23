@@ -19,18 +19,25 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="удалены styles.css с замещением на 1 файл">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="auth system">
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/check.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/login.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/auth/register.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maths/formulas/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/maths/formulas/scripts/calculations.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/scripts/test.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqequation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqequation/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/sqrt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqrt/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/sqequation/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqequation/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/sqrt/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqrt/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/maths/sqrt/scripts/calculations.js" beforeDir="false" afterPath="$PROJECT_DIR$/maths/sqrt/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/vectors/offline/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/offline/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/vectors/online/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/online/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/vectors/online/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/vectors/online/index.php" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/scripts/snow.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/snow.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/styles/main.css" beforeDir="false" afterPath="$PROJECT_DIR$/styles/main.css" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/template/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/template/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -44,9 +51,9 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="TypeScript File" />
-        <option value="CSS File" />
-        <option value="HTML File" />
         <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
       </list>
     </option>
   </component>
@@ -63,37 +70,60 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/maths" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/maths/formulas" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\auth" />
+      <recent name="D:\CODING\site\tests" />
       <recent name="D:\CODING\site\maths" />
       <recent name="D:\CODING\site\vectors\offline\files" />
       <recent name="D:\CODING\site\vectors\offline\scripts" />
-      <recent name="D:\CODING\site\vectors\offline\styles" />
-      <recent name="D:\CODING\site\vectors\online\styles" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\maths\formulas" />
       <recent name="D:\CODING\site\maths" />
       <recent name="D:\CODING\site\maths\sqrt" />
       <recent name="D:\CODING\site\template" />
       <recent name="D:\CODING\site\maths\sqequation" />
-      <recent name="D:\CODING\site\maths\temp" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="JavaScript Debug.roles.php">
+    <configuration name="roles.php" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/site/admin/roles.php" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <configuration name="Unnamed" type="PhpBuiltInWebServerConfigurationType" factoryName="PHP Built-in Web Server" nameIsGenerated="true" document_root="$PROJECT_DIR$">
       <CommandLine parameters="--enable-mbstring" />
       <method v="2" />
     </configuration>
+    <configuration name="roles.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/admin/roles.php">
+      <method v="2" />
+    </configuration>
+    <configuration name="test.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/temp/test.php">
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="JavaScript Debug.roles.php" />
+      <item itemvalue="PHP Built-in Web Server.Unnamed" />
+      <item itemvalue="PHP Script.test.php" />
+      <item itemvalue="PHP Script.roles.php" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.roles.php" />
+        <item itemvalue="PHP Script.roles.php" />
+        <item itemvalue="PHP Script.test.php" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -119,7 +149,7 @@
       <workItem from="1605978363490" duration="6119000" />
       <workItem from="1605984554904" duration="2620000" />
       <workItem from="1605992225298" duration="2157000" />
-      <workItem from="1606065883695" duration="8485000" />
+      <workItem from="1606065883695" duration="25635000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -261,7 +291,14 @@
       <option name="project" value="LOCAL" />
       <updated>1606072362038</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="sqrt operations and footer">
+      <created>1606074479322</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1606074479322</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -296,7 +333,9 @@
     <MESSAGE value="переключатель снега и распределение по файлам" />
     <MESSAGE value="template sqrt equations" />
     <MESSAGE value="удалены styles.css с замещением на 1 файл" />
-    <option name="LAST_COMMIT_MESSAGE" value="удалены styles.css с замещением на 1 файл" />
+    <MESSAGE value="sqrt operations and footer" />
+    <MESSAGE value="auth system" />
+    <option name="LAST_COMMIT_MESSAGE" value="auth system" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">
@@ -307,6 +346,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="667" y="163" key="#PHP/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605872987069" />
+    <state x="336" y="361" key="#SQL_Dialects" timestamp="1606155984865">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="336" y="361" key="#SQL_Dialects/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606155984865" />
     <state x="669" y="202" key="#Unnamed" timestamp="1605872843072">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -315,10 +358,14 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="763" y="306" key="#Web_Browsers/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458237677" />
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606072479192">
+    <state x="823" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1606158711123">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="414" y="175" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606072479192" />
+    <state x="823" y="183" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606158711123" />
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1606143060343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="322" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606143060343" />
     <state x="690" y="267" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1605988181031">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -331,77 +378,96 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981668312" />
-    <state width="1877" height="34" key="GridCell.Tab.0.bottom" timestamp="1606068425722">
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom" timestamp="1606160486466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425722" />
-    <state width="1877" height="34" key="GridCell.Tab.0.center" timestamp="1606068425721">
+    <state width="1293" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606160486466" />
+    <state width="1293" height="282" key="GridCell.Tab.0.center" timestamp="1606160486466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425721" />
-    <state width="1877" height="34" key="GridCell.Tab.0.left" timestamp="1606068425720">
+    <state width="1293" height="282" key="GridCell.Tab.0.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606160486466" />
+    <state width="1293" height="282" key="GridCell.Tab.0.left" timestamp="1606160486466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425720" />
-    <state width="1877" height="34" key="GridCell.Tab.0.right" timestamp="1606068425722">
+    <state width="1293" height="282" key="GridCell.Tab.0.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606160486466" />
+    <state width="1293" height="282" key="GridCell.Tab.0.right" timestamp="1606160486466">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425722" />
-    <state width="1877" height="34" key="GridCell.Tab.1.bottom" timestamp="1606068425724">
+    <state width="1293" height="282" key="GridCell.Tab.0.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606160486466" />
+    <state width="1877" height="170" key="GridCell.Tab.1.bottom" timestamp="1606158682063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425724" />
-    <state width="1877" height="34" key="GridCell.Tab.1.center" timestamp="1606068425724">
+    <state width="1877" height="170" key="GridCell.Tab.1.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606158682063" />
+    <state width="1877" height="170" key="GridCell.Tab.1.center" timestamp="1606158682063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425724" />
-    <state width="1877" height="34" key="GridCell.Tab.1.left" timestamp="1606068425723">
+    <state width="1877" height="170" key="GridCell.Tab.1.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606158682063" />
+    <state width="1877" height="170" key="GridCell.Tab.1.left" timestamp="1606158682063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425723" />
-    <state width="1877" height="34" key="GridCell.Tab.1.right" timestamp="1606068425724">
+    <state width="1877" height="170" key="GridCell.Tab.1.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606158682063" />
+    <state width="1877" height="170" key="GridCell.Tab.1.right" timestamp="1606158682063">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425724" />
-    <state width="1877" height="34" key="GridCell.Tab.2.bottom" timestamp="1606068425726">
+    <state width="1877" height="170" key="GridCell.Tab.1.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606158682063" />
+    <state width="1877" height="34" key="GridCell.Tab.2.bottom" timestamp="1606156412175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425726" />
-    <state width="1877" height="34" key="GridCell.Tab.2.center" timestamp="1606068425725">
+    <state width="1877" height="34" key="GridCell.Tab.2.bottom/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606156412175" />
+    <state width="1877" height="34" key="GridCell.Tab.2.center" timestamp="1606156412175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.2.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425725" />
-    <state width="1877" height="34" key="GridCell.Tab.2.left" timestamp="1606068425725">
+    <state width="1877" height="34" key="GridCell.Tab.2.center/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606156412175" />
+    <state width="1877" height="34" key="GridCell.Tab.2.left" timestamp="1606156412175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.2.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425725" />
-    <state width="1877" height="34" key="GridCell.Tab.2.right" timestamp="1606068425725">
+    <state width="1877" height="34" key="GridCell.Tab.2.left/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606156412175" />
+    <state width="1877" height="34" key="GridCell.Tab.2.right" timestamp="1606156412175">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="34" key="GridCell.Tab.2.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606068425725" />
-    <state x="794" y="443" key="NewPhpFileDialog" timestamp="1605985683470">
+    <state width="1877" height="34" key="GridCell.Tab.2.right/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606156412175" />
+    <state width="196" height="457" key="HiddenNamespacesPopup" timestamp="1606152848417">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="794" y="443" key="NewPhpFileDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605985683470" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1605386285657">
+    <state width="196" height="457" key="HiddenNamespacesPopup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606152848417" />
+    <state x="1032" y="396" key="NewPhpFileDialog" timestamp="1606159503364">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605386285657" />
+    <state x="1032" y="396" key="NewPhpFileDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606159503364" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1606143132343">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606143132343" />
     <state x="681" y="261" width="540" height="524" key="StructurePopup" timestamp="1605458411135">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458411135" />
+    <state x="826" y="397" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1606154370151">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="826" y="397" width="316" height="246" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606154370151" />
+    <state x="690" y="325" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog" timestamp="1606153629341">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="690" y="325" key="com.intellij.database.dbimport.ImportUtil.ChooseTargetDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606153629341" />
+    <state x="803" y="223" width="665" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog" timestamp="1606157329376">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="223" width="665" height="594" key="com.intellij.database.view.ui.AbstractDbRefactoringDialog/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606157329376" />
     <state x="864" y="36" width="628" height="888" key="find.popup" timestamp="1606074140041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="864" y="36" width="628" height="888" key="find.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606074140041" />
-    <state x="616" y="240" key="run.anything.popup" timestamp="1605981284562">
+    <state x="616" y="240" key="run.anything.popup" timestamp="1606157787651">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605981284562" />
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1605887343609">
+    <state x="616" y="240" key="run.anything.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606157787651" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup" timestamp="1606159750074">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605887343609" />
+    <state x="623" y="225" width="672" height="678" key="search.everywhere.popup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1606159750074" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/site$register_php.dat" NAME="register.php Coverage Results" MODIFIED="1606155554272" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="WipCoverageRunner" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" />
   </component>
 </project>

@@ -1,4 +1,4 @@
-var maxChecking = 100
+
 
 document.addEventListener('DOMContentLoaded', function() {
      clear()
@@ -10,7 +10,7 @@ function calculate() {
     var a = document.getElementById('a').value
     var result = 0
 
-    for (b = 1; b <= maxChecking; b++)
+    for (b = 1; b < 100; b++)
     {
         if (b > a)
         {

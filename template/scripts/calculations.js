@@ -10,13 +10,20 @@ function calculate() {
     var a = document.getElementById('a').value
     document.getElementById('res').innerHTML = a
 
-        if (document.getElementById('autoClear').value === "on")
-            clear()
+    if (document.getElementById('autoClear').value === "on")
+        clear()
 }
 
-// Очистка координат (input)
+// Очистка input'a
+function clearAll() {
+    document.getElementById('a').value = "0";
+}
+
+// Если вы сочтёте эту функцию ненужной,
+// вы будете неправы, так как без этой функции
+// кнопка очистить не работает
 function clear() {
-    document.getElementById('a').value = 0
+    clearAll()
 }
 
 // Автоматическая очистка вкл/выкл
@@ -26,5 +33,3 @@ function flipVal() {
     else
         document.getElementById('autoClear').value = "off"
 }
-
-// Снег вкл/выкл

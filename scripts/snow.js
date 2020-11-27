@@ -1,11 +1,28 @@
 document.addEventListener('DOMContentLoaded', function(){
+    if (Date.now() < Date.parse('Jan 20, 2021'))
+        autoSnow()
+    addFooter()
+});
+
+function switchSnow() {
+    if (document.getElementById('snow').style.display === 'none')
+    {
+        document.getElementById('snow').style.display = 'block'
+    }
+    else {
+        document.getElementById('snow').style.display = 'none'
+    }
+
+}
+
+function autoSnow() {
     var script = document.createElement('script');
     script.src = 'https://cdn.jsdelivr.net/particles.js/2.0.0/particles.min.js';
-    script.onload = function(){
+    script.onload = function() {
         particlesJS("snow", {
             "particles": {
                 "number": {
-                    "value": 200,
+                    "value": innerWidth / 15,
                     "density": {
                         "enable": true,
                         "value_area": 800
@@ -18,7 +35,8 @@ document.addEventListener('DOMContentLoaded', function(){
                     "value": 0.7,
                     "random": true,
                     "anim": {
-                        "enable": false
+                        "enable": true,
+                        "speed": 0.07
                     }
                 },
                 "size": {
@@ -61,19 +79,14 @@ document.addEventListener('DOMContentLoaded', function(){
         });
     }
     document.head.append(script);
-    addFooter()
-});
-
-function switchSnow() {
-    if (document.getElementById('snow').style.display === 'none')
-        document.getElementById('snow').style.display = 'block'
-    else
-        document.getElementById('snow').style.display = 'none'
 }
 
 function addFooter() {
     var footer = document.createElement('footer')
-    footer.innerHTML = "<p>MaxTheTomas 2020г.</p> <p><a href=\"https://my.qiwi.com/form/Maksym-TNHv5M1nzM\" class=\"coolerA\">Донат</a></p><p><a onclick='switchSnow()'>Снег</a></p><p><a href='/site/maths/'>Назад</a></p>"
+
+    footer.innerHTML = "<p>MaxTheTomas 2020г.</p> <p><a href=\"https://my.qiwi.com/form/Maksym-TNHv5M1nzM\" class=\"coolerA\">Донат</a></p>" +
+        "<p><a onclick='switchSnow()'>Снег</a></p>" +
+        "<p><a onclick='window.history.back()' >Назад</a></p>"
 
     document.body.append(footer)
 }

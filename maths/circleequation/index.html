@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>Уравнение окружности</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+        <link rel="stylesheet" href="../../styles/snow.css">
+        <link rel="stylesheet" href="../../styles/main.css">
+        <script src="../../scripts/snow.js"></script>
+        <script src="scripts/calculations.js"></script>
+
+    </head>
+    <body>
+            <h1>Уравнение окружности</h1>
+            <p style="margin-bottom: 40px">Используется для <i title="Есть такое слово вообще?">узнавания</i>, находится ли точка на окружности</p>
+            <div id="snow"></div>
+
+<!--            Calc-s-->
+            <p style="margin-bottom: 20px" title="Координаты центра">
+                <label for="x">X: </label><input type="number" id="x">
+                <label for="y">Y: </label><input type="number" id="y">
+            </p>
+            <p style="margin-top: -15px" title="Радиус">
+                <label for="r">R: </label><input type="number" id="r">
+            </p>
+            <button onclick="calculate()" id="run1">Рассчитать</button>
+            <p style="margin-top: 20px" id="res"> </p>
+<!--            AutoClear Functions-->
+            <p style="margin-top: 20px" ><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
+            <button onClick="clearAll()">Очистить</button>
+    </body>
+</html>

@@ -11,8 +11,8 @@ function calculate() {
     var b = document.getElementById('b').value
     var c = document.getElementById('c').value
     var d = (b * b) - (4 * a * c)
-    var x1 = (-b + Math.sqrt(d)) / 2 * a
-    var x2 = (-b - Math.sqrt(d)) / 2 * a
+    var x1 = (-b + Math.sqrt(d)) / (2 * a)
+    var x2 = (-b - Math.sqrt(d)) / (2 * a)
     document.getElementById('res').innerHTML = "X<sub>1</sub> = " + x1 + "; X<sub>2</sub> = " + x2 + "\n ( D = "  + d + " ) "
 
         if (document.getElementById('autoClear').value === "on")

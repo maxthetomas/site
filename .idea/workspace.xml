@@ -20,12 +20,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="new year timer 3!">
-      <change afterPath="$PROJECT_DIR$/.idea/watcherTasks.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/timer/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/timer/scripts/styles.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/tests/timer/styles/countdown.css" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/countdown.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/timer/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/tests/timer/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/tests/timer/scripts/styles.js" beforeDir="false" afterPath="$PROJECT_DIR$/tests/timer/scripts/styles.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -134,7 +131,7 @@
       <workItem from="1606674895986" duration="58000" />
       <workItem from="1607099098014" duration="31000" />
       <workItem from="1609421923831" duration="1419000" />
-      <workItem from="1609432728063" duration="2248000" />
+      <workItem from="1609432728063" duration="2866000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -311,7 +308,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609422627621</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="new year timer 3!">
+      <created>1609435284596</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1609435284596</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

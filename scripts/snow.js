@@ -1,5 +1,5 @@
 document.addEventListener('DOMContentLoaded', function(){
-    if (Date.now() < Date.parse('Jan 20, 2021'))
+    if (Date.now() < Date.parse('Dec 1, 2021'))
         autoSnow()
     addFooter()
 });

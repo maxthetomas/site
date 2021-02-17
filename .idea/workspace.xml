@@ -19,14 +19,7 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="switch to countdown color changer">
-      <change afterPath="$PROJECT_DIR$/jpp7/image.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpp7/image1.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpp7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/countdown.js" afterDir="false" />
-    </list>
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="jpp7 section" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -136,7 +129,7 @@
       <workItem from="1609421923831" duration="1419000" />
       <workItem from="1609432728063" duration="3135000" />
       <workItem from="1611989497342" duration="20000" />
-      <workItem from="1613587210065" duration="1525000" />
+      <workItem from="1613587210065" duration="1791000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -327,7 +320,14 @@
       <option name="project" value="LOCAL" />
       <updated>1609435740564</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="jpp7 section">
+      <created>1613588947349</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1613588947349</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -368,7 +368,8 @@
     <MESSAGE value="new year timer 2!" />
     <MESSAGE value="new year timer 3!" />
     <MESSAGE value="switch to countdown color changer" />
-    <option name="LAST_COMMIT_MESSAGE" value="switch to countdown color changer" />
+    <MESSAGE value="jpp7 section" />
+    <option name="LAST_COMMIT_MESSAGE" value="jpp7 section" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">

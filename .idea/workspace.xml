@@ -19,9 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="jpp7 section 1">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="решение">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jpp7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jpp7/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/scripts/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/countdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -66,19 +67,19 @@
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="D:\CODING\site\jpp7" />
-      <recent name="D:\CODING\site\maths" />
-      <recent name="D:\CODING\site\vectors\offline\files" />
-      <recent name="D:\CODING\site\vectors\offline\scripts" />
-      <recent name="D:\CODING\site\vectors\offline\styles" />
-    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\CODING\site\maths\circle" />
       <recent name="D:\CODING\site\maths" />
       <recent name="D:\CODING\site\maths\sqrt" />
       <recent name="D:\CODING\site\template" />
       <recent name="D:\CODING\site\maths\sqequation" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\jpp7" />
+      <recent name="D:\CODING\site\maths" />
+      <recent name="D:\CODING\site\vectors\offline\files" />
+      <recent name="D:\CODING\site\vectors\offline\scripts" />
+      <recent name="D:\CODING\site\vectors\offline\styles" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -135,7 +136,7 @@
       <workItem from="1613587210065" duration="1791000" />
       <workItem from="1613589296229" duration="792000" />
       <workItem from="1613820713094" duration="68000" />
-      <workItem from="1613820859431" duration="334000" />
+      <workItem from="1613820859431" duration="4582000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -340,7 +341,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613589439296</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="решение">
+      <created>1613821267509</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1613821267510</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -383,7 +391,8 @@
     <MESSAGE value="switch to countdown color changer" />
     <MESSAGE value="jpp7 section" />
     <MESSAGE value="jpp7 section 1" />
-    <option name="LAST_COMMIT_MESSAGE" value="jpp7 section 1" />
+    <MESSAGE value="решение" />
+    <option name="LAST_COMMIT_MESSAGE" value="решение" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">

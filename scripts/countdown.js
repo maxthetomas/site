@@ -3,10 +3,18 @@ const maybePluralize = (count, noun, suffix = 's') =>
 
 // Set the date we're counting down to
 // var countDownDate = new Date("Mar 26, 2021 16:00:00").getTime();
-var countDownDate = new Date("Feb 23, 2021 20:00:00").getTime();
+
+
 
 // Update the count down every 1 second
 var x = setInterval(function() {
+
+    if (countDownDate == null) {
+        countDownDate = new Date("Feb 23, 2021 20:00:00").getTime();
+    }
+    if (innerData == null) {
+        innerData = "TIMER END"
+    }
 
     // Get today's date and time
     var now = new Date().getTime();
@@ -26,6 +34,9 @@ var x = setInterval(function() {
     // If the count down is finished, write some text
     if (distance < 0) {
         clearInterval(x);
-        document.getElementById("countdowntext").innerHTML = "Если этот текст до сих пор не стал ссылкой, значит Макс что-то делает)";
+        document.getElementById("countdowntext").innerHTML = innerData;
+        if (updatePage !== -1) {
+            document.head.innerHTML += "<meta http-equiv=\"refresh\" content=\"" + updatePage.toString() + "\">"
+        }
     }
 }, 1000);

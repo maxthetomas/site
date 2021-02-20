@@ -19,7 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="jpp7 section" />
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="jpp7 section 1">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/jpp7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jpp7/index.html" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,6 +133,9 @@
       <workItem from="1609432728063" duration="3135000" />
       <workItem from="1611989497342" duration="20000" />
       <workItem from="1613587210065" duration="1791000" />
+      <workItem from="1613589296229" duration="792000" />
+      <workItem from="1613820713094" duration="68000" />
+      <workItem from="1613820859431" duration="334000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -327,7 +333,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613588947349</updated>
     </task>
-    <option name="localTasksCounter" value="29" />
+    <task id="LOCAL-00029" summary="jpp7 section 1">
+      <created>1613589439296</created>
+      <option name="number" value="00029" />
+      <option name="presentableId" value="LOCAL-00029" />
+      <option name="project" value="LOCAL" />
+      <updated>1613589439296</updated>
+    </task>
+    <option name="localTasksCounter" value="30" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -369,7 +382,8 @@
     <MESSAGE value="new year timer 3!" />
     <MESSAGE value="switch to countdown color changer" />
     <MESSAGE value="jpp7 section" />
-    <option name="LAST_COMMIT_MESSAGE" value="jpp7 section" />
+    <MESSAGE value="jpp7 section 1" />
+    <option name="LAST_COMMIT_MESSAGE" value="jpp7 section 1" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">
@@ -490,6 +504,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="681" y="261" width="540" height="524" key="StructurePopup/0.0.1920.1040/1920.-243.1280.984@0.0.1920.1040" timestamp="1605458411135" />
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1613820869108">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="769" y="434" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1920.1040/1920.-78.1280.984@0.0.1920.1040" timestamp="1613820869108" />
     <state x="864" y="36" width="628" height="888" key="find.popup" timestamp="1606074140041">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

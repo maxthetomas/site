@@ -19,10 +19,10 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="решение">
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="timer update">
+      <change afterPath="$PROJECT_DIR$/jpp7/Downloader.zip" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/jpp7/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/jpp7/index.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/scripts/countdown.js" beforeDir="false" afterPath="$PROJECT_DIR$/scripts/countdown.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,25 +61,25 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../dimkinsite" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/jpp7" />
     <property name="list.type.of.created.stylesheet" value="CSS" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="JavaScript.Libraries" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\CODING\site\maths\circle" />
-      <recent name="D:\CODING\site\maths" />
-      <recent name="D:\CODING\site\maths\sqrt" />
-      <recent name="D:\CODING\site\template" />
-      <recent name="D:\CODING\site\maths\sqequation" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="D:\CODING\site\jpp7" />
       <recent name="D:\CODING\site\maths" />
       <recent name="D:\CODING\site\vectors\offline\files" />
       <recent name="D:\CODING\site\vectors\offline\scripts" />
       <recent name="D:\CODING\site\vectors\offline\styles" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CODING\site\jpp7" />
+      <recent name="D:\CODING\site\maths\circle" />
+      <recent name="D:\CODING\site\maths" />
+      <recent name="D:\CODING\site\maths\sqrt" />
+      <recent name="D:\CODING\site\template" />
     </key>
   </component>
   <component name="RunManager" selected="JavaScript Debug.index.html (1)">
@@ -136,7 +136,8 @@
       <workItem from="1613587210065" duration="1791000" />
       <workItem from="1613589296229" duration="792000" />
       <workItem from="1613820713094" duration="68000" />
-      <workItem from="1613820859431" duration="4582000" />
+      <workItem from="1613820859431" duration="4841000" />
+      <workItem from="1614101353151" duration="713000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -348,7 +349,14 @@
       <option name="project" value="LOCAL" />
       <updated>1613821267510</updated>
     </task>
-    <option name="localTasksCounter" value="31" />
+    <task id="LOCAL-00031" summary="timer update">
+      <created>1613832285063</created>
+      <option name="number" value="00031" />
+      <option name="presentableId" value="LOCAL-00031" />
+      <option name="project" value="LOCAL" />
+      <updated>1613832285063</updated>
+    </task>
+    <option name="localTasksCounter" value="32" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -367,7 +375,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="COMMIT MESSAGE" />
     <MESSAGE value="Made something" />
     <MESSAGE value="index.html update" />
     <MESSAGE value="Using" />
@@ -392,7 +399,8 @@
     <MESSAGE value="jpp7 section" />
     <MESSAGE value="jpp7 section 1" />
     <MESSAGE value="решение" />
-    <option name="LAST_COMMIT_MESSAGE" value="решение" />
+    <MESSAGE value="timer update" />
+    <option name="LAST_COMMIT_MESSAGE" value="timer update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">

@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>An awesome title</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="stylesheet" href="../styles/snow.css">
+        <link rel="stylesheet" href="../styles/main.css">
+        <script src="../scripts/snow.js"></script>
+        <script src="scripts/calculations.js"></script>
+    </head>
+    <body>
+            <h1>An awesome title</h1>
+            <div id="snow"></div>
+
+<!--            Calc-s-->
+            <p>
+                <label for="a"></label><input type="number" id="a">
+            </p>
+            <button onclick="calculate()" id="run1">Рассчитать</button>
+            <p style="margin-top: 20px" id="res"> </p>
+<!--            AutoClear Functions-->
+            <p style="margin-top: 20px" ><input id="autoClear" value="off" onclick="flipVal()" type="checkbox"><label for="autoClear">Автоматическая очистка </label></p>
+            <button onClick="clearAll()">Очистить</button>
+    </body>
+</html>

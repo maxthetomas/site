@@ -19,12 +19,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="downloader">
-      <change afterPath="$PROJECT_DIR$/maths/pifagor/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/maths/pifagor/scripts/calculations.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_02_2021_14_34_[Default_Changelist]/shelved.patch" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/shelf/Uncommitted_changes_before_Update_at_20_02_2021_14_34__Default_Changelist_.xml" beforeDir="false" />
+    <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="пифагор">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -146,7 +143,7 @@
       <workItem from="1614101353151" duration="829000" />
       <workItem from="1614104688423" duration="874000" />
       <workItem from="1616001102634" duration="38000" />
-      <workItem from="1617904839706" duration="524000" />
+      <workItem from="1617904839706" duration="630000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
@@ -372,7 +369,14 @@
       <option name="project" value="LOCAL" />
       <updated>1614102496168</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="пифагор">
+      <created>1617905403136</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1617905403136</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -391,7 +395,6 @@
     <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="index.html update" />
     <MESSAGE value="Using" />
     <MESSAGE value="Online calculator" />
     <MESSAGE value="Online-Calc and navigation" />
@@ -416,7 +419,8 @@
     <MESSAGE value="решение" />
     <MESSAGE value="timer update" />
     <MESSAGE value="downloader" />
-    <option name="LAST_COMMIT_MESSAGE" value="downloader" />
+    <MESSAGE value="пифагор" />
+    <option name="LAST_COMMIT_MESSAGE" value="пифагор" />
   </component>
   <component name="WindowStateProjectService">
     <state x="540" y="175" key="#CLI_Interpreters" timestamp="1605872984515">

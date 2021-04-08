@@ -21,7 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7379facc-568f-4648-a482-05bb5b45d3b2" name="Default Changelist" comment="пифагор">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/maths/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/maths/pifagor/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/maths/pifagor/index.html" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,7 +143,7 @@
       <workItem from="1614101353151" duration="829000" />
       <workItem from="1614104688423" duration="874000" />
       <workItem from="1616001102634" duration="38000" />
-      <workItem from="1617904839706" duration="630000" />
+      <workItem from="1617904839706" duration="762000" />
     </task>
     <task id="LOCAL-00001" summary="COMMIT MESSAGE">
       <created>1605459613132</created>
